@@ -1,2 +1,0 @@
-Project ID: collect-youtube-contents
-google_client_API_Key = AIzaSyDAlC-MU7Ma4Ic3i43eGbmsCJsvQ18qtMc
